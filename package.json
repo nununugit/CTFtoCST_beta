@@ -26,6 +26,6 @@
     "dependencies": {
         "hammerjs": "^2.0.8",
         "nodejs": "0.0.0",
-        "vuetify": "^2.2.30"
+        "vuetify": "^2.6.10"
     }
 }
